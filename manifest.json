@@ -1,8 +1,10 @@
 {
-  "version": 1,
-  "updated_at": "2026-06-20T00:00:00Z",
+  "version": 2,
+  "updated_at": "2026-06-20T16:30:00Z",
   "models": [
     { "id": "opus-4-8", "label": "Opus 4.8", "value": "opus", "family": "opus", "contextWindow": 1000000, "default": true },
+    { "id": "opus-4-7", "label": "Opus 4.7", "value": "claude-opus-4-7", "family": "opus", "contextWindow": 1000000 },
+    { "id": "opus-4-6", "label": "Opus 4.6", "value": "claude-opus-4-6", "family": "opus", "contextWindow": 1000000 },
     { "id": "sonnet-4-6", "label": "Sonnet 4.6", "value": "sonnet", "family": "sonnet", "contextWindow": 200000 },
     { "id": "haiku-4-5", "label": "Haiku 4.5", "value": "haiku", "family": "haiku", "contextWindow": 200000 },
     { "id": "fable-5", "label": "Fable 5", "value": "fable", "family": "fable", "contextWindow": 200000 }
